@@ -1,0 +1,37 @@
+{
+    "name": "nearata/flarum-ext-copy-code-to-clipboard",
+    "description": "Adds a copy button to html code tags, allowing users to easily copy the code content.",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "Unlicense",
+    "support": {
+        "source": "https://github.com/Nearata/flarum-ext-copy-code-to-clipboard"
+    },
+    "require": {
+        "flarum/core": "^1.8"
+    },
+    "authors": [
+        {
+            "name": "Nearata",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nearata\\CopyCodeToClipboard\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Copy Code To Clipboard",
+            "category": "feature",
+            "icon": {
+                "name": "far fa-copy",
+                "backgroundColor": "#2e86f2",
+                "color": "#fff"
+            }
+        }
+    }
+}
