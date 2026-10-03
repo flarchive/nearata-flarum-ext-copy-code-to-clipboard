@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of nearata/flarum-ext-copy-code-to-clipboard.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/flarum-ext-copy-code-to-clipboard) or the [upstream repository](https://github.com/Nearata/flarum-ext-copy-code-to-clipboard).
 
-**0** versions archived · Latest: [`v2.2.1`](https://github.com/flarchive/nearata-flarum-ext-copy-code-to-clipboard/tree/archive/v2.2.1) · License: `Unlicense` · Flarum: `^1.8`
+**9** versions archived · Latest: [`v2.2.1`](https://github.com/flarchive/nearata-flarum-ext-copy-code-to-clipboard/tree/archive/v2.2.1) · License: `Unlicense` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2020-09-06 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/nearata-flarum-ext-copy-code-to-clipboard/tree/archive/v1.0.0) |
+| `v1.0.1` | 2020-09-07 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/nearata-flarum-ext-copy-code-to-clipboard/tree/archive/v1.0.1) |
+| `v1.1.0` | 2020-10-23 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/nearata-flarum-ext-copy-code-to-clipboard/tree/archive/v1.1.0) |
+| `v1.2.0` | 2021-02-20 | `>=0.1.0-beta.15 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/nearata-flarum-ext-copy-code-to-clipboard/tree/archive/v1.2.0) |
+| `v1.3.0` | 2021-03-18 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-copy-code-to-clipboard/tree/archive/v1.3.0) |
+| `v2.0.0` | 2021-06-27 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-copy-code-to-clipboard/tree/archive/v2.0.0) |
+| `v2.1.0` | 2022-08-27 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-copy-code-to-clipboard/tree/archive/v2.1.0) |
+| `v2.2.0` | 2023-06-21 | `^1.8` | [Browse](https://github.com/flarchive/nearata-flarum-ext-copy-code-to-clipboard/tree/archive/v2.2.0) |
+| `v2.2.1` | 2025-09-08 | `^1.8` | [Browse](https://github.com/flarchive/nearata-flarum-ext-copy-code-to-clipboard/tree/archive/v2.2.1) |
 
 Catalog entry: [packages/nearata-flarum-ext-copy-code-to-clipboard.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-copy-code-to-clipboard.json)
 
